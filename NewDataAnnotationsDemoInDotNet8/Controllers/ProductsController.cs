@@ -2,6 +2,7 @@
 using NewDataAnnotationsDemoInDotNet8.Models;
 
 namespace NewDataAnnotationsDemoInDotNet8.Controllers;
+
 [Route("api/[controller]")]
 [ApiController]
 public class ProductsController : ControllerBase
