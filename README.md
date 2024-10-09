@@ -5,4 +5,4 @@ This project showcases examples of the new **Data Annotations** in **.NET 8** an
 To get started with this project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/ps-codings/NewDataAnnotationsDemoInDotNet8.git
+git clone https://github.com/poorna-soysa/dotnet8-new-data-annotations-demo.git
